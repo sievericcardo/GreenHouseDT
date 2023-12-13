@@ -21,9 +21,13 @@ To use the environment with a proper greenhouse, two things has to be done
 - set up the proper token for the simulation driver; this can be done from the folder `SimulationDriver` on the Desktop and changing the settings of the `config_local.yml` file
 - change the execution mode for the frontend. This can be done from the terminal with `sudo bash change_parameters.sh` and choosing the Operating Mode to either `demo` or `greenhouse`
 
+![Change the token in case of mode](images/token-setting.png)
+
 ## Adding the RDF for the execution
 
 To upload the asset model navigate to the page `http://localhost:3030` and click on **Add Data**, from there click on **Select Files**, navigate to `home -> Desktop -> Simulation Driver` and choose the `greenhouse.ttl` if you want to use our asset model, or upload your own if you have a different one. Once you have selected the file click on **Upload Now** to upload the data; if there were no error in the file the bar will be completely green and it will show the number of triples added.
+
+![Upload the TTL](images/ttl-upload.png)
 
 ## Executing the project
 
