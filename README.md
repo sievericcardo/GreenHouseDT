@@ -1,11 +1,13 @@
 # Greenhouse
 
-The whole simulation driver can be retrieved as a virtual machine here. In addition, it is possible to also manually install the whole system by following the guides for the [frontend](https://github.com/sievericcardo/greenhousedt_frontend) and the [simulation driver](https://github.com/sievericcardo/smol_scheduler).
-
-The VM uses the following default credentials:
+The whole simulation driver can be retrieved as a virtual machine here with the following credentials
 
 - username: lab
 - password: lab
+
+In addition, it is possible to also manually install the whole system by following the guides for the [frontend](https://github.com/sievericcardo/greenhousedt_frontend) the [simulation driver](https://github.com/sievericcardo/smol_scheduler), and the [physical setup](https://github.com/sievericcardo/greenhouse_dt_project).
+
+The following is on how to **setup the VM**.
 
 ## Setting up the environment for Demo purpose
 
