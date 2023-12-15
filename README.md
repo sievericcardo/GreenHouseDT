@@ -43,3 +43,5 @@ In case of addition of elements the following file has to be modified
 
 - `config_shelf_*`: for each shelf we use a different file and modifications and/or addition has to be added before restarting the system to get the new elements
 - the asset model has to be updated with the appropriate query: this can be done on the update seciton on `http://localhost:3030`
+
+For detailed instructions on extending the greenhouse, as well as a detailed description of the two extensions mentioned in the accompanying paper, we refer to demo/README.md in the repository of the greenhouse.
