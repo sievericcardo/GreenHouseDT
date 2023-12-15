@@ -1,4 +1,4 @@
-# GreenHouseDT
+# Greenhouse
 
 The whole simulation driver can be retrieved as a virtual machine here. In addition, it is possible to also manually install the whole system by following the guides for the [frontend](https://github.com/sievericcardo/greenhousedt_frontend) and the [simulation driver](https://github.com/sievericcardo/smol_scheduler).
 
