@@ -35,7 +35,7 @@ For the execution the file `execute_simulation.sh` has been added on the Desktop
 
 > `./execute_simulation.sh start`
 
-and the status the system will be updated over time on the frontend at `http://greenhousedt.local`
+and the status the system will be updated over time on the frontend at `http://greenhousedt.local`. The complete output of the execution can be inspected in the file under `/model/model.txt`
 
 ## Extend the GreenHouse
 
