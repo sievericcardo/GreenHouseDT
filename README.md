@@ -5,7 +5,7 @@ _note: for the on-going review, the referenced repositories are all anonymized_
 The GreenhouseDT exemplar is a low-cost system to compare and share research on self-adaptive digital twins, with a focus on adaptation of the configuration.
 The exemplar is distributed in two ways. 
 
- * A virtual machine available ([here](https://figshare.com/s/e35b9d0e30efd6ef43d5)) that runs all components (username: lab, password: lab), and
+ * A virtual machine available ([here](https://doi.org/10.5281/zenodo.10561309)) that runs all components (username: lab, password: lab), and
  * A [physical setup](https://anonymous.4open.science/r/greenhouse_dt_project-45C3/README.md) and two open source components for the [frontend](https://anonymous.4open.science/r/greenhousedt_frontend-EF6F/README.md) the [simulation driver](https://anonymous.4open.science/r/smol_scheduler-79B5/README.md). These three repositories contain all the information to manually setup the system. The virtual machine is build by cloning these repositories.
 
 The following are the guides to setup the VM and reproduce the claims of the accompanying paper.
