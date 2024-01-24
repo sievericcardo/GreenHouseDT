@@ -6,7 +6,7 @@ The GreenhouseDT exemplar is a low-cost system to compare and share research on 
 The exemplar is distributed in two ways. 
 
  * A virtual machine available ([here](https://doi.org/10.5281/zenodo.10561309)) that runs all components (username: lab, password: lab), and
- * A [physical setup](https://anonymous.4open.science/r/greenhouse_dt_project-45C3/README.md) and two open source components for the [frontend](https://anonymous.4open.science/r/greenhousedt_frontend-EF6F/README.md) the [simulation driver](https://anonymous.4open.science/r/smol_scheduler-79B5/README.md). These three repositories contain all the information to manually setup the system. The virtual machine is build by cloning these repositories.
+ * A [physical setup](https://github.com/sievericcardo/greenhouse_dt_project) and two open source components for the [frontend](https://github.com/sievericcardo/greenhousedt_frontend) the [simulation driver](https://github.com/N-essuno/smol_scheduler). These three repositories contain all the information to manually setup the system. The virtual machine is build by cloning these repositories.
 
 The following are the guides to setup the VM and reproduce the claims of the accompanying paper.
 
