@@ -1,7 +1,5 @@
 # GreenhouseDT
 
-_note: for the on-going review, the referenced repositories are all anonymized_ 
-
 The GreenhouseDT exemplar is a low-cost system to compare and share research on self-adaptive digital twins, with a focus on adaptation of the configuration.
 The exemplar is distributed in two ways. 
 
