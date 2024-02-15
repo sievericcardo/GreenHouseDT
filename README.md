@@ -10,7 +10,7 @@ The following are the guides to setup the VM and reproduce the claims of the acc
 
 # Reproduce
  * To visualize the prerecorded scenario (section 6), start the VM _as described below_ with the demo configuration and follow the instructions therein to start the frontend and trigger self-adaptation by issueing a query to add a plant.
- * To investigate the extensions of section 6.1 and 6.2, we refer to the [code documentation](https://anonymous.4open.science/r/smol_scheduler-79B5/demo/README.md) in the repository of the simulation driver.
+ * To investigate the extensions of section 6.1 and 6.2, we refer to the [code documentation](https://github.com/N-essuno/smol_scheduler/blob/master/demo/README.md) in the repository of the simulation driver.
 
 
 # Setting up the Virtual Machine
@@ -55,4 +55,4 @@ In case of addition of elements the following file has to be modified
 - `config_shelf_*`: for each shelf we use a different file and modifications and/or addition has to be added before restarting the system to get the new elements
 - the asset model has to be updated with the appropriate query: this can be done on the update seciton on `http://localhost:3030`
 
-For detailed instructions on extending the greenhouse, as well as a detailed description of the two extensions mentioned in the accompanying paper, we again refer to the [code documentation](https://anonymous.4open.science/r/smol_scheduler-79B5/demo/README.md) in the repository of the greenhouse.
+For detailed instructions on extending the greenhouse, as well as a detailed description of the two extensions mentioned in the accompanying paper, we again refer to the [code documentation](https://github.com/N-essuno/smol_scheduler/blob/master/demo/README.md) in the repository of the greenhouse.
